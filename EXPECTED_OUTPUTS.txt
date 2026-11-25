@@ -1,0 +1,7 @@
+Binary Tree:
+BFS: C - A - S - I - N - O
+DFS (Preorder): C - A - S - I - N - O
+
+Graph:
+BFS: C - A - S - I - N - O
+DFS: C - A - I - N - S - O
